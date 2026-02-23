@@ -1,0 +1,59 @@
+# Tabs UI Project
+
+Interactive tabs component built with HTML, CSS and Vanilla JavaScript.
+
+## ---Description
+
+This project demonstrates how to create a dynamic tabs interface where:
+
+- Each tab changes the background color.
+- Each tab updates the displayed content.
+- Only the selected tab shows an active bottom border.
+- The active state switches when another tab is clicked.
+
+The project focuses on DOM manipulation, event handling, and dynamic class management using pure JavaScript.
+
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Double-click on `tabs.html`.
+
+OR
+
+Right-click `tabs.html` → Open with your browser.
+
+No installation or dependencies required.
+
+---
+
+## 🌐 Project  URL
+
+You can view the live project here:
+
+
+https://github.com/SilviaTeletorGuate/tabs-interactive
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+---
+
+## Learning Objectives
+
+- DOM selection (`getElementById`, `querySelectorAll`)
+- Event handling (`onclick`, `addEventListener`)
+- Dynamic class manipulation (`classList.add`, `classList.remove`)
+- UI state control
+
+---
+
+##‍💻 Author
+
+Steletor
