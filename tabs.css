@@ -1,0 +1,47 @@
+h1{
+    background-color: transparent;
+}
+
+.menu{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    height: 10vh;
+}
+
+#container{
+    height: 50vh;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.text-content{
+    background-color: green;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .boton{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: black;
+    font-style: bold;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s ease;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.boton.active {
+  border-bottom: 2px solid #000;
+}
